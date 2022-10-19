@@ -1,0 +1,15 @@
+<mjml>
+    <mj-head>
+    </mj-head>
+
+    <mj-body background-color="#d5d5d5">
+        <mj-section>
+            <mj-column>
+                <<mj-image
+                     src="teal banner for onelabel.png"
+                     alt="teal banner image"
+                     width="600px" />/>
+            </mj-column>
+        </mj-section>
+    </mj-body>
+</mjml>
