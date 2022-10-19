@@ -1,15 +1,70 @@
 <mjml>
     <mj-head>
+
+        <mj-attributes>
+        <mj-section background-color="#bff2f2" />
+        <mj-button background-color="#00AEAE" font-weight="700" />
+        </mj-attributes>
     </mj-head>
 
-    <mj-body background-color="#d5d5d5">
-        <mj-section>
+    <mj-body background-color="#d5d5d5" width="600px">
+
+        <!--BANNER IMG-->
+        <mj-section >
             <mj-column>
-                <<mj-image
+                <mj-image
                      src="teal banner for onelabel.png"
                      alt="teal banner image"
-                     width="600px" />/>
+                     width="600px" />
             </mj-column>
         </mj-section>
+
+        <!--PRODUCT IMG-->
+
+        <mj-section>
+            <mj-group>
+                <mj-column>
+                    <mj-image src="hat__7.png" alt="beanie hat image" width="200px" />
+                    <mj-text align="center">
+                        <h2>Beanie Style</h2>
+                        <p>$35</p>
+                    </mj-text>
+                    <mj-button href="https://www.instagram.com/onelabeluk/">Buy Now</mj-button>
+                </mj-column>
+                <mj-column>
+                    <mj-image src="hat__11.png" alt="beanie hat image" width="200px" />
+                    <mj-text align="center">
+                        <h2>Fisherman</h2>
+                        <p>$30</p>
+                    </mj-text>
+                    <mj-button href="https://www.instagram.com/onelabeluk/">Buy Now</mj-button>
+                </mj-column>
+                
+            </mj-group>
+        </mj-section>
+
+        <!--SOCIAL MEDIA ICONS-->
+        <mj-section >
+            <mj-column width="600px" >
+            <mj-divider padding-top="20px"  width="100px" border-width="3px" border-style="solid"  border-color="#00AEAE"/>
+               <mj-social font-size="20px" icon-size="30px" >
+                <mj-social-element  name="instagram" href="https://www.instagram.com/onelabeluk/"/>
+                <mj-social-element  name="facebook" href="https://www.instagram.com/onelabeluk/"/>
+                <mj-social-element  name="twitter" href="https://www.instagram.com/onelabeluk/"/>
+                <mj-social-element  name="linkedin" href="https://www.instagram.com/onelabeluk/"/>
+               </mj-social>
+            </mj-column>
+        </mj-section>
+
+        <!--FOOTER IMG-->
+        <mj-section padding-top="0">
+            <mj-column>
+                <mj-image
+                     src="teal footer for onelabel.png"
+                     alt="teal footer image"
+                     width="600px" />
+            </mj-column>
+        </mj-section>
+
     </mj-body>
 </mjml>
