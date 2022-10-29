@@ -24,23 +24,24 @@
         <mj-section>
             <mj-group>
                 <mj-column>
-                    <mj-image src="hat__7.png" alt="beanie hat image" width="200px" />
+                    <mj-image src="teal-3.png" alt="beanie hat image" width="200px" />
                     <mj-text align="center">
-                        <h2>Beanie Style</h2>
-                        <p>$35</p>
+                        <h2>Fisherman</h2>
+                        <p>£30</p>
                     </mj-text>
                     <mj-button href="https://www.instagram.com/onelabeluk/">Buy Now</mj-button>
                 </mj-column>
                 <mj-column>
-                    <mj-image src="hat__11.png" alt="beanie hat image" width="200px" />
+                    <mj-image src="/teal-4.png" alt="beanie hat image" width="200px" />
                     <mj-text align="center">
-                        <h2>Fisherman</h2>
-                        <p>$30</p>
+                        <h2>Core Collection</h2>
+                        <p>£35</p>
                     </mj-text>
                     <mj-button href="https://www.instagram.com/onelabeluk/">Buy Now</mj-button>
                 </mj-column>
-                
+  
             </mj-group>
+            
         </mj-section>
 
         <!--SOCIAL MEDIA ICONS-->
