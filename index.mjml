@@ -35,7 +35,7 @@
             <mj-group>
                 
                 <mj-column>
-                    <mj-image padding-bottom="26px" src="maxteal-1.png" alt="beanie hat image" width="200px" />
+                    <mj-image padding-bottom="10px" src="maxteal-1.png" alt="beanie hat image" width="200px" />
                     <mj-text align="center">
                         <h2>Core Collection</h2>
                         <p>£35</p>
