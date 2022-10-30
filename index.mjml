@@ -67,7 +67,7 @@
                     <mj-button href="https://www.instagram.com/onelabeluk/">Buy Now</mj-button>
                 </mj-column>
                 <mj-column>
-                    <mj-image padding-bottom="25px" src="teal-3.png" alt="beanie hat image" width="200px" />
+                    <mj-image padding-bottom="20px" src="teal-3.png" alt="beanie hat image" width="200px" />
                     <mj-text align="center">
                         <h2>Fisherman</h2>
                         <p>£30</p>
