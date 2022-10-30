@@ -24,7 +24,7 @@
         <mj-section>
             <mj-group>
                 <mj-column>
-                    <mj-image src="teal-3.png" alt="beanie hat image" width="200px" />
+                    <mj-image src="teal-3.png" alt="beanie hat image" width="195px" />
                     <mj-text align="center">
                         <h2>Fisherman</h2>
                         <p>£30</p>
