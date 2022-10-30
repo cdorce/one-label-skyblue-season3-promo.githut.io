@@ -22,15 +22,27 @@
         <!--PRODUCT IMG-->
 
         <mj-section>
+            <mj-column>
+                <mj-text align="center" font-family="Helvetica" color="#0c4862">
+                    <h1>MADE IN THE UK</h1>
+
+                    <p>Feel the Teal </p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
+
+        <mj-section>
             <mj-group>
+                
                 <mj-column>
-                    <mj-image src="teal-3.png" alt="beanie hat image" width="195px" />
+                    <mj-image padding-bottom="26px" src="maxteal-1.png" alt="beanie hat image" width="200px" />
                     <mj-text align="center">
-                        <h2>Fisherman</h2>
-                        <p>£30</p>
+                        <h2>Core Collection</h2>
+                        <p>£35</p>
                     </mj-text>
                     <mj-button href="https://www.instagram.com/onelabeluk/">Buy Now</mj-button>
                 </mj-column>
+              
                 <mj-column>
                     <mj-image src="teal-4.png" alt="beanie hat image" width="200px" />
                     <mj-text align="center">
@@ -43,11 +55,43 @@
             </mj-group>
             
         </mj-section>
+        <mj-section>
+            <mj-group>
+
+                <mj-column>
+                    <mj-image src="teal-1.png" alt="beanie hat image" width="200px" />
+                    <mj-text align="center">
+                        <h2>Fisherman</h2>
+                        <p>£30</p>
+                    </mj-text>
+                    <mj-button href="https://www.instagram.com/onelabeluk/">Buy Now</mj-button>
+                </mj-column>
+                <mj-column>
+                    <mj-image padding-bottom="25px" src="teal-3.png" alt="beanie hat image" width="200px" />
+                    <mj-text align="center">
+                        <h2>Fisherman</h2>
+                        <p>£30</p>
+                    </mj-text>
+                    <mj-button href="https://www.instagram.com/onelabeluk/">Buy Now</mj-button>
+                </mj-column>
+  
+            </mj-group>
+            
+            
+        </mj-section>
+
+        <mj-section>
+            <mj-column>
+                <mj-text padding-bottom="0px" align="center" font-family="Helvetica" color="#0c4862">
+                    <p style="padding-bottom:0px; font-size:10px; align:center; font-family:Sans-serif">Get 10% OFF for following us on our social medias.</p>
+                </mj-text>
+            </mj-column>
+        </mj-section>
 
         <!--SOCIAL MEDIA ICONS-->
         <mj-section >
             <mj-column width="600px" >
-            <mj-divider padding-top="20px"  width="100px" border-width="3px" border-style="solid"  border-color="#00AEAE"/>
+            <mj-divider padding-top="0px" width="100px" border-width="3px" border-style="solid"  border-color="#00AEAE"/>
                <mj-social font-size="20px" icon-size="30px" >
                 <mj-social-element  name="instagram" href="https://www.instagram.com/onelabeluk/"/>
                 <mj-social-element  name="facebook" href="https://www.instagram.com/onelabeluk/"/>
