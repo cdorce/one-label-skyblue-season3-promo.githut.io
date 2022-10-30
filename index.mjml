@@ -32,7 +32,7 @@
                     <mj-button href="https://www.instagram.com/onelabeluk/">Buy Now</mj-button>
                 </mj-column>
                 <mj-column>
-                    <mj-image src="/teal-4.png" alt="beanie hat image" width="200px" />
+                    <mj-image src="teal-4.png" alt="beanie hat image" width="200px" />
                     <mj-text align="center">
                         <h2>Core Collection</h2>
                         <p>£35</p>
